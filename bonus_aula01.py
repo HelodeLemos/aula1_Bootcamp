@@ -18,7 +18,6 @@ bonus_final = CONSTANTE_BONUS + salario * bonus_recebido
 
 # 5) Imprima cáculo de KPI PARA O USUÁRIO
 # Este passo é opcional, mas ajuda a mostrar o valor calculado.
-# O passo 7 já fará isso de uma forma mais amigável.
 print(f"O valor do bônus calculado foi: R$ {bonus_final}")
 
 # 6) Imprime a mensagem personalizada incluindo o nome do usuário
